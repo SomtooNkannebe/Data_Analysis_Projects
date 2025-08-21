@@ -63,6 +63,7 @@ popular_product1=df.groupby('Product')['Quantity Ordered'].sum()
   -  USB-C Charging Cable.
   -  Lightning Charging Cable.
   -  Wired Headphones.
+    
 ![salesdata2025 (2)](https://github.com/user-attachments/assets/ab64ef29-3c58-4c80-8e9a-cc860da21e55)
 
     
@@ -70,6 +71,7 @@ popular_product1=df.groupby('Product')['Quantity Ordered'].sum()
   - Lg Dryers.
   - Lg washing machines.
   - Thinkpad Laptops
+  - 
 ![salesdata2025 (3)](https://github.com/user-attachments/assets/9f438d09-7b45-4563-8bc9-9f4fcc6a7a79)
 
 
