@@ -44,7 +44,8 @@ popular_product1=df.groupby('Product')['Quantity Ordered'].sum()
   - New York City
   - Boston
 
-![Top Cities by Orders](https://github.com/SomtooNkannebe/Data_Analysis_Projects/blob/main/salesdata2025%20(4).jpg)
+
+![salesdata2025 (4)](https://github.com/user-attachments/assets/efaabc3b-7686-4a7c-acb9-a15ab80491c2)
 
 - Top 5 most Popular product
   - AAA Batteries (4-pack).
