@@ -1,6 +1,16 @@
 # SALES ANALYSIS PROJECT
 ### PROJECT OVERVIEW
 To derive meaningful insights and patterns from sales data, that can inform strategic business decisions.
+### TABLE OF CONTENT
+- [DATA SOURCE](#DATA_SOURCE)
+- [TOOLS](#TOOLS)
+- [DATA CLEANING / PREPARATION](#DATA_CLEANING_/_PREPARATION)
+- [EXPLORATING DATA ANALYSIS QUESTIONS](#EXPLORATING_DATA_ANALYSIS_QUESTIONS)
+- [DATA ANALYSIS](#DATA_ANALYSIS)
+- [RESULTS / FINDINGS](#RESULTS_/_FINDINGS)
+- [RECOMENDATIONS](#RECOMENDATIONS)
+
+  
 ### DATA SOURCE
 sales_data_csv [Download here](https://github.com/SomtooNkannebe/Data_Analysis_Projects/blob/main/Sales%20Data.csv))
 
