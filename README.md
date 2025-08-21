@@ -2,7 +2,7 @@
 ### PROJECT OVERVIEW
 To derive meaningful insights and patterns from sales data, that can inform strategic business decisions.
 ### DATA SOURCE
-sales_csv [Download here](link)
+sales_data_csv [Download here](https://github.com/SomtooNkannebe/Data_Analysis_Projects/blob/main/Sales%20Data.csv))
 
 ### TOOLS
 - Python - For Clearning and Analysis.
