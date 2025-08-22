@@ -71,7 +71,7 @@ popular_product1=df.groupby('Product')['Quantity Ordered'].sum()
   - Lg Dryers.
   - Lg washing machines.
   - Thinkpad Laptops
-  - 
+    
 ![salesdata2025 (3)](https://github.com/user-attachments/assets/9f438d09-7b45-4563-8bc9-9f4fcc6a7a79)
 
 
